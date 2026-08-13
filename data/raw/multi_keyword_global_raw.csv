@@ -71,3 +71,4 @@ date,Snowflake,BigQuery,Amazon Redshift,Databricks,isPartial
 2026-05-01,86,21,3,54,False
 2026-06-01,83,22,3,60,False
 2026-07-01,67,16,2,47,False
+2026-08-01,44,7,1,34,True
